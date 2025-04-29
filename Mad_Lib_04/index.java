@@ -1,7 +1,7 @@
-package BrianPHoganExercises;
+package BrianPHoganExercises.Mad_Lib_04;
 import java.util.*;
 
-public class P4 {
+public class index {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,8 +1,8 @@
-package BrianPHoganExercises;
+package BrianPHoganExercises.Printing_Quotes_03;
 import java.util.*;
 
 
-public class P3 {
+public class index {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

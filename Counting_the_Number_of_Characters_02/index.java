@@ -1,7 +1,8 @@
-package BrianPHoganExercises;
+package BrianPHoganExercises.Counting_the_Number_of_Characters_02;
+
 import java.util.*;
 
-public class P2 {
+public class index {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         System.out.println("what is your input strings");

@@ -1,7 +1,7 @@
-package BrianPHoganExercises;
+package BrianPHoganExercises.SayHello_01;
 import java.util.*;
 
-public class P1 {
+public class index{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("What is your name");
@@ -20,3 +20,4 @@ public class P1 {
 
     }
 }
+
