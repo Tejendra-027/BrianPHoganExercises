@@ -1,4 +1,3 @@
-package BrianPHoganExercises.Mad_Lib_04;
 import java.util.*;
 
 public class index {

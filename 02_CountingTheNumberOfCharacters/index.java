@@ -1,5 +1,3 @@
-package BrianPHoganExercises.Counting_the_Number_of_Characters_02;
-
 import java.util.*;
 
 public class index {

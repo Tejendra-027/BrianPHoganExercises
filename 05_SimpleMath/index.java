@@ -1,4 +1,3 @@
-package BrianPHoganExercises.Simple_Math_05;
 import java.util.*;
 
 public class index {

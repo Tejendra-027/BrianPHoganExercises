@@ -1,4 +1,3 @@
-package BrianPHoganExercises.SayHello_01;
 import java.util.*;
 
 public class index{

@@ -1,4 +1,3 @@
-package BrianPHoganExercises.Printing_Quotes_03;
 import java.util.*;
 
 
